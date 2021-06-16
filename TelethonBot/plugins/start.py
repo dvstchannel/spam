@@ -8,7 +8,7 @@ from telethon import events, Button
 @BotzHub.on(events.NewMessage(incoming=True))
 async def start(event):
     await event.reply("🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍\n.\
-                    \n**• Tìm Phi Công Bằng 17cm ???**\
+                    \n**• Tuyễn Phi Công Bằng 17cm ???**\
                     \n\n**• 👉 ZALO CHAT [𝗫𝗘𝗠 𝗡𝗚𝗔𝗬](https://zalo.me/g/hamlsi428) **\
                     \n\n**• 👉 APP TỔNG HỢP MB:** QQL849.com ",
                     buttons=[
