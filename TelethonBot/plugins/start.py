@@ -8,16 +8,15 @@ from telethon import events, Button
 @BotzHub.on(events.NewMessage(incoming=True))
 async def start(event):
     await event.reply("🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍\n.\
-                    \n**• Tuyễn Phi Công Bằng 17cm ???**\
-                    \n\n**• 👉 ZALO CHAT [𝗫𝗘𝗠 𝗡𝗚𝗔𝗬](https://zalo.me/g/hamlsi428) **\
-                    \n\n**• 👉 APP TỔNG HỢP MB:** QQL849.com ",
+                    \n**• Hết gà luộc tới heo quay các cậu @@!**\
+                    \n\n**• 👉 Tội cho người ăn con heo ấy =]]z**",
                     buttons=[
                         [
-                            Button.url("MBBG-SG 🌚",url="https://t.me/joinchat/nfBmvkS4FeFjYjE1"),
-                            Button.url("MBBG-HN 🌝",url="https://t.me/joinchat/HarJMbkqSFQ4ODg9")
+                            Button.url("LINK FULL🌚",url="https://linktr.ee/botocsex"),
+                            Button.url("THOÁT Ế  🌝",url="https://linktr.ee/laucu")
                         ],
                         [
-                            Button.url("ĐỪNG CÓ TÒ MÒ OKE!!!",url="https://t.me/joinchat/HFMeDVI4K_czMjBl")
+                            Button.url("TỔNG HỢP IDOL UY TÍN",url="http://t.me/joinchat/fcVaQcku3iUxNmE1")
                         ]
                     ])
     
