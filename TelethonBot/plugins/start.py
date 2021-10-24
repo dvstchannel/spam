@@ -5,7 +5,7 @@ from telethon import events, Button
 
 
 
-@BotzHub.on(events.NewMessage(incoming=True))
+@BotzHub.on(events.NewMessage(incoming=True, pattern="/start"))
 async def start(event):
     await event.reply("**• 👉 Xem thêm nhiều group ở phía 👇**\n\n**• 👉 Nếu không bào được nhóm vui lòng chọn cách mở chặn Pron cho điện thoại hệ điều hành iphone.👍**",
                     buttons=[
