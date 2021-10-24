@@ -7,8 +7,7 @@ from telethon import events, Button
 
 @BotzHub.on(events.NewMessage(incoming=True))
 async def start(event):
-    await event.reply("🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍\n**• 👉 Xem thêm nhiều group ở phía 👇**
-                    \n\n**• 👉 Nếu không bào được nhóm vui lòng chọn cách mở chặn Pron cho điện thoại hệ điều hành iphone.👍**",
+    await event.reply("🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍\n**• 👉 Xem thêm nhiều group ở phía 👇**\n\n**• 👉 Nếu không bào được nhóm vui lòng chọn cách mở chặn Pron cho điện thoại hệ điều hành iphone.👍**",
                     buttons=[
                         [
                             Button.url("✅Tổng hợp link nhóm✅",url="https://t.me/tuoidaythi")
