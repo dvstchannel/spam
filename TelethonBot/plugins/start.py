@@ -16,7 +16,7 @@ async def start(event):
                             Button.url("⛔️Nội quy Bộ Tộc⛔️",url="https://t.me/noiquybotoc18")
                         ],
                         [
-                            Button.url("🔞Sữa lỗi mở chặn 🔞",url="https://t.me/unlock18")
+                            Button.url("🔞Mở Chặn Pron IOS🔞",url="https://t.me/unlock18")
                         ],
                         [
                             Button.url("🇻🇳Cài Tiếng Việt🇻🇳",url="http://t.me/setlanguage/abcxyz")
