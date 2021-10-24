@@ -7,16 +7,20 @@ from telethon import events, Button
 
 @BotzHub.on(events.NewMessage(incoming=True))
 async def start(event):
-    await event.reply("🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍\n.\
-                    \n**• Hết gà luộc tới heo quay các cậu @@!**\
-                    \n\n**• 👉 Tội cho người ăn con heo ấy =]]z**",
+    await event.reply("🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍\n**• 👉 Xem thêm nhiều group ở phía 👇**
+                    \n\n**• 👉 Nếu không bào được nhóm vui lòng chọn cách mở chặn Pron cho điện thoại hệ điều hành iphone.👍**",
                     buttons=[
                         [
-                            Button.url("LINK FULL🌚",url="https://linktr.ee/botocsex"),
-                            Button.url("THOÁT Ế  🌝",url="https://linktr.ee/laucu")
+                            Button.url("✅Tổng hợp link nhóm✅",url="https://t.me/tuoidaythi")
                         ],
                         [
-                            Button.url("TỔNG HỢP IDOL UY TÍN",url="http://t.me/joinchat/fcVaQcku3iUxNmE1")
+                            Button.url("⛔️Nội quy Bộ Tộc⛔️",url="https://t.me/noiquybotoc18")
+                        ],
+                        [
+                            Button.url("🔞Sữa lỗi không hiển🔞",url="https://t.me/unlock18")
+                        ],
+                        [
+                            Button.url("🇻🇳Cài Tiếng Việt🇻🇳",url="https://t.me/unlock18")
                         ]
                     ])
     
